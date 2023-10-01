@@ -19,7 +19,7 @@ UNION ALL
 SELECT
   "bananas" AS fruit,
   0 AS count
-=======
+-- =======
 -- config {
 --   type: "view",
 --   name: "overridden_name",

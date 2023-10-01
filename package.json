@@ -1,0 +1,6 @@
+{
+  "name": "dataform_pipeline_ui_practise",
+  "dependencies": {
+    "@dataform/core": "2.4.2"
+  }
+}
